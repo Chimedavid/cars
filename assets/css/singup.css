@@ -1,0 +1,9 @@
+body{
+    background-image: url(../images/word.jpg);
+    height: 100vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    overflow: hidden;
+}
